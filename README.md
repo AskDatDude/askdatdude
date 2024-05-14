@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
-<h4 align="center">In upcoming projects, I aim to specialize in cybersecurity, striving to deliver high-quality results while expanding my expertise and showcasing my abilities. If you have any intresting project concepts, feel free to reach out — I'm all ears!</h4>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=askdatdude&show_icons=true&locale=en&layout=compact" alt="askdatdude" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=askdatdude&show_icons=true&locale=en&layout=compact" alt="askdatdude" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askdatdude&" alt="askdatdude" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askdatdude&label=Profile%20views&color=0e75b6&style=flat" alt="askdatdude" /> </p>
 
-- 🔭 I’m currently working on **COLAB**
+- 🔭 I’m currently working on **COLAB** *(secret project)*
 
 - 🌱 I’m currently learning **penetration testing & digital forensics basics**
 
