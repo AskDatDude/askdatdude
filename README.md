@@ -8,9 +8,9 @@
 </div>
 
 
-- 🔭 I’m currently working on **COLAB** *(secret project)*
+- 🔭 I’m currently working on expanding my tool set, by actively **pentesting boxes on HackTheBox**
 
-- 🌱 I’m currently learning **penetration testing & digital forensics basics**
+- 🌱 I’m currently learning **penetration testing & digital forensics**
 
 - 👨‍💻 All of my projects are available at [https://askdatdude.github.io/](https://askdatdude.github.io/)
 
